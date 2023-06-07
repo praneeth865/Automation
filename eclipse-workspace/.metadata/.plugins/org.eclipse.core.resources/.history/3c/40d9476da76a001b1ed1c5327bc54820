@@ -1,0 +1,10 @@
+package praneeth;
+
+public class Subclass {
+	int a;
+	public Subclass (){
+		a= 5;
+	}
+	}
+
+

@@ -1,0 +1,10 @@
+package praneeth;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class All {
+List<Integer> newList=new ArrayList<>();
+newList.add(1);
+newList.add(2);
+}
