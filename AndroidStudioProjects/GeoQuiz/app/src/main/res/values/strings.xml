@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Jefferson City is the capital of Missouri</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="Correct_toast">"Proud of you!"</string>
+    <string name="InCorrect_toast">"Nope"</string>
+</resources>
